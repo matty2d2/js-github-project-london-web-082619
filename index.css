@@ -11,3 +11,12 @@
 ul {
   list-style: none;
 }
+
+li {
+  padding-top: 20;
+  padding-bottom: 20;
+}
+
+img {
+  width: 200px
+}
